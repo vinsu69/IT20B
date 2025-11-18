@@ -70,4 +70,4 @@ function ticketPrice(age) {
     }
 }   
 
-ticketPrice(5);
+ticketPrice(10);
